@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--    functional button colors-->
+    <color name="colorFuncButtonBG">#070000</color>
+    <color name="colorFuncButtonTxt">#F8F5F5</color>
+
+    <!--    number button colors-->
+    <color name="colorNumButtonBG">#F8F5F5</color>
+    <color name="colorNumButtonTxt">#070000</color>
+
+    <!--    equal button colors-->
+    <color name="colorEqlNumButtonBG">#FF9800</color>
+    <color name="colorEqlButtonTxt">#070000</color>
+
+
+
+
+
+
+</resources>
